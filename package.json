@@ -49,11 +49,10 @@
     "react-dom": "^16.3.0 || 17 || 18"
   },
   "files": [
-    "lib/**/*.js",
-    "lib/**/*.js.map",
-    "lib/**/*.css",
-    "lib/**/*.d.ts",
-    "lib/**/*.tsx"
+    "build/lib/slidedown.js",
+    "build/lib/slidedown.js.map",
+    "build/lib/slidedown.d.ts",
+    "lib/slidedown.css"
   ],
   "repository": "frankwallis/react-slidedown",
   "keywords": [
