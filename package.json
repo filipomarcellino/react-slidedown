@@ -53,7 +53,7 @@
     "build/lib/slidedown.js.map",
     "build/lib/slidedown.d.ts",
     "lib/slidedown.css",
-    "lib/sliedown.tsx"
+    "lib/slidedown.tsx"
   ],
   "repository": "frankwallis/react-slidedown",
   "keywords": [
